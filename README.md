@@ -9,5 +9,4 @@ For this simple project the main features are the two main different temperature
 
 ## Future Features
 
-* Add a better looking UI with CSS
 * Add more temerpature ratings like Kelvin
